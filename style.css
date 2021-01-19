@@ -1,0 +1,31 @@
+.container {
+    margin: 0;
+    margin-top: 25px;
+}
+
+i {
+    color: goldenrod;
+    margin-left: 20px;
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.coin-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 15px;
+}
+
+.media-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0;
+}
+
+h5 {
+    margin-top: 5px;
+}
